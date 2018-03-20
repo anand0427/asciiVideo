@@ -1,4 +1,0 @@
-Photography.
-
-Add instafeed js
-
